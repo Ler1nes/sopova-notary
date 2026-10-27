@@ -8,6 +8,9 @@
 
 **Опубликованная версия:** https://ler1nes.github.io/sopova-notary/
 
+**Визитка:** [`business-card/`](business-card/) — PDF 90×50 мм с вылетами, PNG-превью
+и исходник макета.
+
 Публикация — GitHub Pages: при каждом пуше в `main` GitHub Actions собирает проект и обновляет
 сайт. Исходники и workflow — в этом репозитории.
 
